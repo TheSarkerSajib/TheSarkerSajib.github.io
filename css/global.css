@@ -1,0 +1,42 @@
+html {
+	overflow-y: scroll;
+}
+body {
+	background-image: url(../images/background.png);
+	margin: 0px;
+	padding: 0px;;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: rgb(41, 41, 41);
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 24px;
+	color: #cc0000;
+	margin: 20px 0px;
+}
+h3 {
+	font-size: 17px;
+}
+p {
+	margin: 15px 0px;
+}
+a {
+	color: blue;
+	color: rgb(0,106,200);
+	text-decoration: underline;
+	cursor: pointer;
+}
+a:hover {
+	text-decoration: none;
+}
+
+sup {
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size: 70%;
+	font-weight: bold;
+}
+td {
+	padding-top: 4px;
+}
